@@ -1,0 +1,13 @@
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+E:\Usuario-JeisonCuesta\Escritorio\Ejercicios\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache
